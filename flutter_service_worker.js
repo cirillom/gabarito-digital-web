@@ -51,8 +51,8 @@ const RESOURCES = {"drift_worker.js": "babb348cf72e6da955c4386f67316e28",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-BoldItalic.ttf": "e3c361ea8d1c215805439ce0941a1c8d",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Math-BoldItalic.ttf": "946a26954ab7fbd7ea78df07795a6cbc",
 "assets/packages/flutter_math_fork/lib/katex_fonts/fonts/KaTeX_Main-Italic.ttf": "ac3b1882325add4f148f05db8cafd401",
-"main.dart.js": "f87e3b1b60ffa962bf69ac6f06814a8a",
-"flutter_bootstrap.js": "29e263e5a2e431a6209528e2779dfb0b",
+"main.dart.js": "daa2d554e751f7a956bbc0b159411953",
+"flutter_bootstrap.js": "4261ca2c8528268f7a20c24a2da4b453",
 "manifest.json": "65cf5daa5f9c3e129a34df05107e9842"};
 // The application shell files that are downloaded before a service worker can
 // start.
